@@ -1,0 +1,13 @@
+telethon
+cryptg
+wget
+pillow
+hachoir
+# youtube-dl
+yt-dlp
+asyncio
+pafy
+pytube3
+lxml
+pymongo
+dnspython
